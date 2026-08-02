@@ -85,4 +85,6 @@ Type a number between 1 and 10 into the input field.
 
 ​Enjoy playing the Number Guessing Game! 🎉
 
+## Screenshot
+
 
