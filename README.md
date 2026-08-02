@@ -87,5 +87,5 @@ Type a number between 1 and 10 into the input field.
 
 ## Screenshot
 
-![image alt]{https://github.com/thesurfer7777-v/Number_Guessing_Game_Application/blob/6f897fa7c1cbae2c7fa1d70a4330f3e11be7a529/Screenshot%20.png}
+![image alt](https://github.com/thesurfer7777-v/Number_Guessing_Game_Application/blob/main/Screenshot%20.png?raw=true)
 
